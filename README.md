@@ -4,8 +4,8 @@ Spring Boot CRUD Web application for employee management system
 
 
 ## Overview of Project
-![](ss/overview.jpg)
+![](https://github.com/shoaib-1457/EmployWise-JAVA/blob/main/Employee-Management-System/ss/overview.jpg)
 
 
 ### Architecture
-![](ss/arch.jpg)
+![](https://github.com/shoaib-1457/EmployWise-JAVA/blob/main/Employee-Management-System/ss/arch.jpg)
